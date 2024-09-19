@@ -9,8 +9,8 @@
 
 // Change to 434.0 or other frequency, must match RX's freq!
 #define RF95_FREQ 911.72
-const char WIFI_SSID[] = "Overlord";          // CHANGE TO YOUR WIFI SSID
-const char WIFI_PASSWORD[] = "bobthesadman";  // CHANGE TO YOUR WIFI PASSWORD
+const char WIFI_SSID[] = "";          // CHANGE TO YOUR WIFI SSID
+const char WIFI_PASSWORD[] = "";  // CHANGE TO YOUR WIFI PASSWORD
 
 const char MQTT_BROKER_ADRRESS[] = "mqtt-dashboard.com";  // CHANGE TO MQTT BROKER'S ADDRESS
 const int MQTT_PORT = 1883;
